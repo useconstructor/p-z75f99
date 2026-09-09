@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #F9F7F2;
+  --color-secondary: #F5F1E8;
+  --color-accent: #6B2423;
+  --color-background: #2C2C2C;
+}
+
+@layer base {
+  * { box-sizing: border-box; }
+  body { margin: 0; }
+}
