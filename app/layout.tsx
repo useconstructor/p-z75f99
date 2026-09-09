@@ -3,8 +3,8 @@ import type { ReactNode } from 'react';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Osteria Luciano | Italian Dining in New York',
-  description: 'Handmade pasta, regional Italian wines, and gracious hospitality in the heart of Greenwich Village.',
+  title: 'Project 1788984402758 | Trattoria Italiana',
+  description: 'Timeless Italian cooking and Lowcountry hospitality in Charleston\'s historic district.',
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
